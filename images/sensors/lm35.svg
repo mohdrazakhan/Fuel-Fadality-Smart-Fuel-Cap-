@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="220" viewBox="0 0 320 220">
+  <rect width="100%" height="100%" fill="#0b1220"/>
+  <text x="20" y="36" font-family="Inter, Arial" font-size="18" fill="#fbbf24">LM35 Temperature</text>
+  <!-- sensor body -->
+  <rect x="140" y="70" width="40" height="70" rx="6" fill="#1f2937" stroke="#f59e0b" stroke-width="2"/>
+  <!-- pins -->
+  <rect x="146" y="140" width="6" height="20" fill="#f59e0b"/>
+  <rect x="157" y="140" width="6" height="20" fill="#f59e0b"/>
+  <rect x="168" y="140" width="6" height="20" fill="#f59e0b"/>
+  <!-- thermometer scale -->
+  <line x1="220" y1="80" x2="220" y2="170" stroke="#f59e0b" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="220" cy="150" r="14" fill="#f59e0b"/>
+  <text x="240" y="130" font-size="14" fill="#fbbf24" font-family="Inter, Arial">28°C</text>
+</svg>

@@ -1,0 +1,9 @@
+Add your actual prototype and sensor images (PNG/JPG/GIF) here:
+- images/prototype_front.jpg
+- images/prototype_installed.jpg
+- images/preview.gif (animation)
+- images/sensors/turbidity.jpg
+- images/sensors/flow_ys201.jpg
+- images/sensors/lm35.jpg
+- images/wiring_diagram.png
+Replace these placeholders and commit again.

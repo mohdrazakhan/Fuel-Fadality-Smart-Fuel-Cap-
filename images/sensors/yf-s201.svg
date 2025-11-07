@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="220" viewBox="0 0 320 220">
+  <rect width="100%" height="100%" fill="#0b1220"/>
+  <text x="20" y="36" font-family="Inter, Arial" font-size="18" fill="#6ee7b7">YF-S201 Flow Sensor</text>
+  <!-- body -->
+  <rect x="70" y="90" width="180" height="40" rx="20" fill="#111827" stroke="#34d399" stroke-width="2"/>
+  <!-- arrow -->
+  <polygon points="220,110 200,96 200,124" fill="#34d399"/>
+  <!-- pulses -->
+  <polyline points="80,160 100,150 120,160 140,150 160,160 180,150 200,160" fill="none" stroke="#34d399" stroke-width="2"/>
+</svg>
